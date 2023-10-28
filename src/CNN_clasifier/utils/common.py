@@ -4,7 +4,7 @@ import json
 import joblib
 import base64
 
-from src.CNN_clasifier import logger
+from CNN_clasifier import logger
 from box import exceptions, ConfigBox
 from box.exceptions import BoxValueError
 
